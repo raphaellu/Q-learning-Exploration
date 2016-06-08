@@ -10,5 +10,7 @@ In this project, we are interested in implementing Q-learning as an extension to
 
 by default, the algorithm will run with `configuration.json`. To apply the other configuration(s), simply rename.
 
-*For the sake of clarity and simplicity, we did not use ROS for simulation.*
+*For the sake of clarity and simplicity, we did not use ROS for simulation. *
+
+[Youtube link](https://www.youtube.com/watch?v=Jc0C8loJt3Q)
 
